@@ -1,0 +1,33 @@
+---
+title: "Specialist Vs Generalist"
+author: "Sample of Score 6"
+date: "September 12, 2017"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+## Issue
+
+**[Statement]** In our time, specialists of all kinds are highly overrated. We need more generalists-people who can provide broad perspectives.
+
+**[class]** Society
+
+## Essay
+
+In this era of rapid social and technological change leading to increasing life complexity and psychological displacement, both positive and negative effects among persons in Western society call for a balance in which there are both specialists and generalists.
+
+**Specialists are necessary in order to allow society as a whole to properly assimilate(*digest, to completely understand and begin to use new ideas, information etc.*) and widely disseminate(*to spread information or ideas to as many people as possible*) the masses of new information coming out of research.**(~~Specialists are necessary in order to allow society as a whole to properly and usefully assimilate the masses of new information and knowledge that have come out of research and have been widely disseminated through mass global media.~~) As the head of Pharmacology at my university once said(and I paraphrase): "I can only research what I do because there are so many who have come before me to whom I can turn for basic knowledge. It is only because of each of the narrowly focused individuals at each step that a full and true understanding of the complexities of life can be had. Each person can only hold enough knowledge to add one small rung to the ladder, but together we can climb to the moon." This illustrates the point that the level of current technology is at a stage where specialists are strongly demanded to take advantage of the information available to our society. (~~This illustrates the point that our societies level of knowledge and technology is at a stage in which there simply must be specialists in order for our society to take advantage of the information available to us.~~)
+
+**Simply put(*briefly speaking, simply speaking*), without specialists, our society would find itself bogged down(*get stuck while doing sth.*) in the Sargasso Sea of information overload. While it was fine for early physicists to learn and understand a few of existed laws and ideas(~~the few laws and ideas that existed~~) during their times, nowadays no one individual can possibly digest and assimilate all of the knowledge in any given area.**
+
+**On the other hand, over specialization means narrow foci(*the plural of 'focus'*) in which people can lose the larger picture.** No one can hope to understand the human body by only inspecting one's own toe-nails(*not see the forest for the trees, take a part for the whole*). What we learn from a narrow focus may be internally and logically(~~internally logically~~) coherent but (~~may be~~) irrelevant or fallacious(*containing or based on false ideas*) within the framework of a broader perspective. Further, if only inspecting our toe-tails(~~if we inspect only our toe-tails~~),we may conclude that the whole body is hard and white. Useful conclusions and (~~thus perhaps useful~~) inventions must come by sharing among specialists. Simply throwing out various discoveries means we have a pile of(*a number of*)useless discoveries. Only when one can make with them a mosaic can we the whole picture they form.(~~it is only when one can make with them a mosaic that we can see that they may form a picture.~~)
+
+**Not only may over-specialization be dangerous in terms of the truth, purity and cohesion of knowledge, but (~~it can~~)also serve to drown moral or universal issues.** Generalists and only generalists can see a broad enough picture to realize and introduce the problems of environments to the world(~~introduce to the world the problems of the environment~~). With specialization, each person focuses on their research and (~~their~~)goals, thus industrialization, expansion and new technology are driven ahead. Meanwhile no individual can see the wholistic(*integral*) view of our global existence in which true advancement may mean stifling(*stifle: stop something from happening or developing*) (~~individual~~) specialists for the greater good of all.
+
+**Finally, over-specialization in people's daily lives and jobs has meant personal and psychological compartmentalization(*partition, demarcation*).** People are forced into pigeon holes(*A pigeonhole is one of the sections in a frame on a wall where letters and messages can be left for someone, or one of the sections in a writing desk where you can keep documents.*) early in life (at least by university) and must consciously attempt to consume external forms of stimuli and information in order not to be lost in their small and isolated universe. Not only does this make for narrowly focused and generally poorly-educated individuals, but it guarantees a sense of loss of community, often followed by a feeling of psychological displacement and personal dissatisfaction.
+
+Without generalists, society becomes inward-looking(*an inward-looking person or group is more interested in themselves than in other people – used to show disapproval*) and eventually inefficient. Without a society that recognizes the importance of broad-mindedness and fora(*the plural of 'forum'*) for sharing generalities, individuals become isolated. Thus, while our form of society necessitates specialists, generalists are equally important. Specialists drive us forward in a series of thrusts(*a sudden strong movement in which you push something forward*) while generalists make sure we are still on the jousting(*joust: to compete or argue with someone*) field and know what the stakes are(*at stake: if something that you value very much is at stake, you will lose it if a plan or action is not successful.*).
+
+

@@ -1,0 +1,25 @@
+---
+title: "Curriculum Determined By Educators or Students"
+author: "Sample of Score 6"
+date: "September 29, 2017"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+## Issue
+
+**[Statement]** It is unfortunate that today's educators place so much emphasis on finding out what students want to include in the curriculum and then giving it to them. It is the educators' duty to determine the curriculum and the students' duty to study what is presented to them. 
+
+**[class]** Education
+
+## Essay
+
+The statement above conceals(*to hide your real feelings or the truth*) interesting connotations(*a quality or an idea that a word makes you think of that is more than its basic meaning*) far above curriculum development. **Issues of classroom control and development of scholarly talents(*academic talents*) are at stake(*in danger, on the line*), not simply a debate over which books are acceptable or over revisionist histories(*If you describe a person or their views as revisionist, you mean that they reject traditionally held beliefs about a particular historical event or events.*).** 
+
+**The statement itself is a bit misleading in that in my experience, student control over curriculum hardly existed.** Each year, there were certain course offerings made available, and students were to choose from those offerings, of course bearing in mind requirements for graduation set forth(*to state, express or utter*) by the administration. On a classroom level, the immediate, initial material may have been somewhat(*more than a little but not very*) directed by the students, but this was a part of process allowed by the teacher/professor in order to gain the interest and attention of the students. **However, too much of any one thing becomes problematic;letting students set the curriculum, as with(*the same as*) letting students choose and design their own major in college, serves ultimately to dilute(*to make a quality, belief etc weaker or less effective*) the quality of the educational experience** unless a single advisor can devote significant amounts of time to the individual student. This amount of time, or even the expense to the student of this individual attention, seem to indicate that resources would be better allocated(*to use something for a particular purpose, give something to a particular person etc, especially after an official decision has been made*) elsewhere.
+
+**Of course, any school in which the students decide "what goes" is bound to have problems controlling students.** Once the educators, (*be they administrators or teachers???*), are under the control of students,
+
+

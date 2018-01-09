@@ -1,0 +1,47 @@
+---
+title: "Curriculum Determined By Educators or Students"
+author: "Sample of Score 6"
+date: "September 29, 2017"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+## Issue
+
+**[Statement]** It is unfortunate that today's educators place so much emphasis on finding out what students want to include in the curriculum and then giving it to them. It is the educators' duty to determine the curriculum and the students' duty to study what is presented to them. 
+
+**[class]** Education
+
+## Outline
+
+Start:我们正处在这样的时代：信息以全所未有的速度爆炸性增加，每时每刻都有新的知识和概念被创造。显然，让一个人掌握所有的知识和信息是不可能和不必要的。（所以）过去传统意义上的人才培养理念及对全才的强烈诉求已经无法适应时代需求。
+
+First point(generalists' pros)：诚然，全才在这个社会中起到了不可忽视的作用。① 全才对各种领域都有所涉猎和了解,更适合于开展科普、基础教育、社区医疗等基本性工作。（e.p.公知的例子：在面对社会热门议题，如果没有足够的知识储备，很多谬论会贻笑大方并误导大众。）② 优秀的全才在掌握各种知识的前提下，还能将知识融会贯通提供更加broad-perspectives，（e.p.很多新奇的创意和交叉学科都是由此而来）。
+
+Second point(generalists' cons)：①社会分工逐渐细化和专业化。全才由于缺乏更加深入的知识，无法完成具体的工作（e.p.电影制作，涉及许多专业工种，电影教授和电影专才都无法胜任）。② 但是全才受限于自身水平，不不能进行深入的科学研究。而社会的发展需要研究更加复杂的问题，而这个是全才做不到，需要专才的。
+小结：社会对于专才的需求是社会进步的必然结果，虽然会被误某些人认为是对专才高估。
+
+Third point（refute）：① 只见树木不见森林：成功之路上每个人都会面临各种问题，除了这个，还会有其他。专才有这个问题，全才也有自己的问题；②
+缺乏基本能力：担忧多虑（e.p.科研人员完成文献需要开展很多工作，涉及多种基础能力，缺乏这些不可能完成）；③ 缺乏生存能力：担忧荒谬。现在社会的模式是人们通过自己的专业技能争取工资，并购买生活必需品，而不需要自己播种、耕种、收割，烤面包、做衣服等。
+
+End：如今社会越发多元化和包容。全才和专才在社会上都十分重要，并各司其职。人才的培养模式不是一种零和游戏，重视全才并不意味着忽视专才，反之亦然。避免卓别林在摩登时代中反映的人类异化的悲剧，是发展更加完善的培养模式，更加广泛的社会福利，更加健全的规章制度，而不是退回农耕时代，过上自己自足的生活。
+
+## Essay
+
+We are in the period when information is exploding at an unprecedented rate, with new knowledge and notions being created every minute and second. Apparently, it becomes impossible and unnecessary for one individual to master all kinds of information and knowledge. Thus the conventional ideas of talents cultivation as well as strong appeal for generalists cannot adapt to the times anymore.  
+
+True, generalists play a vital role in society operating. Having a command of various fields, generalists are quite suitable for implementing some groundwork, which include dissemination of science, primary education and community healthcare etc. Supposing that a public intellectual has no enough store of knowledge in social hot-button issues, his fallacies will expose himself to ridicule and mislead the public. Furthermore, based on a diversity of information, outstanding generalists are capable of digesting and assimilating them to provide broad perspectives. Actually, a number of fancy originality and brand-new interdisciplines come from the merging of different fields and areas.
+
+With the development of marketization and globalization, there is an inevitable tendency for social division to become more and more specific and special. However, generalists are not qualified for special types of work in many industries, due to lack more in-depth knowledge towards relevant work. Take film production for example, the birth of one movie involves not only some well-known parts, such as film director, actor/actress and producer, but also a series of professional categories, like screenplay, casting, photography, lighting, costume, sound, film editing and so on. And there are heavy demands for such specialists in the emerging or developed film markets. But each of aforementioned work couldn't be done by a film professor, who even knows all of film theories and introduces all of jobs in class. What's more, it is an impossible mission for one or several generalists in film to make a movie competent to be distributed. 
+
+Besides, the science and technology have developed so highly that our society should consider much sophisticated problems to drive social improvement. Limited to their own academic or technical levels, however, generalists are unable to deal with such problems. The solution for the dilemma generalists face is either to collaborate with specialists in related areas they research, or to spend enough time and energies on their questions to become veritable specialists.
+
+In short, the strong requirements for specialists in all walks of life, though misunderstood as overrating them by some people, are the indisputable results of social progress.
+
+Some argue that specialists focus too much on their interests to see bigger pictures, and gradually lose the basic skills and self-viability in work and life. But in my view, everyone who wants to achieve his goal is bound to face lots of difficulties, except that, also including external pressure, incorrect methods and shortage of funds. Maybe specialists tend not to see the whole forest for the trees, but generalists have their trouble as well, such as hard to breaking through the ceilings. The concern for losing the basic skills is dispensable. In order to complete scientific papers, researchers should read quantities of literatures, design and attempt many experiments, write and revise papers, the whole procedures of which require them to have the basic principles of reading, writing, arithmetic and operating. Without those foundation capabilities, could not they finish any study. As for the deficiency of viability, worry at it seems absurd. The pattern of modern life is that people earn money by their abilities and purchase the necessities of life, don't have to sow, farm and harvest, make bread and clothes by themselves.
+
+Nowadays, our society becomes increasingly diversified and inclusive, where generalists and specialists are both important, and perform their roles in their own areas. Talents cultivation is not a kind of zero-sum game. Much attention to specialists does not mean overlooking generalists and vice versa. Avoiding the tragedy of human alienation shown in Modern Times by Chaplin is to make cultivation patterns more perfect, social welfare more comprehensive and regulation sounder, rather than return back to the agricultural society, living a self-sufficient life. 
+
+

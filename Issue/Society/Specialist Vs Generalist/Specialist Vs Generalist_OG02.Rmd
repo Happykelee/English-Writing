@@ -1,0 +1,28 @@
+---
+title: "Specialist Vs Generalist"
+author: "Sample of Score 5"
+date: "September 25, 2017"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+## Issue
+
+**[Statement]** In our time, specialists of all kinds are highly overrated. We need more generalists-people who can provide broad perspectives.
+
+**[class]** Society
+
+## Essay
+
+Specialists are not overrated today. More generalists may be needed, but not to overshadow the specialists. **Generalists can provide a great deal of information on many topics of interest with a broad range of ideas. People who look at the overall view of things can help with some of the large problems our society faces today. But specialists are necessary to gain a better understanding of more in depth methods to solve problems or fix(~~fixing~~) things.**
+
+One good example of why specialists are not overrated is in the medical field. Doctors are necessary for people to live healthy lives.  When a person is sick, he may go to a general practitioner(*someone who works as a doctor*) to find out the cause of his problems. Usually, this kind of "generalized" doctor can help most ailments(*an illness that is not very serious*) with simple and effective treatments. Sometimes, though, a sickness may go beyond a family doctor's knowledge or the prescribed(*issue commands or orders for*) treatments don't work the way they should. When a sickness progresses or becomes diagnosed as a disease that requires more care than a family doctor can provide, he may be referred to a specialist. For instance, a person with constant problems that require hospitalization may be suggested to visit an asthma(*respiratory disorder characterized by wheezing; usually of allergic origin*) specialist. Since a family doctor has a great deal of knowledge of medicine, he can decide when his methods are not effective and the patient needs to see someone who knows more about the specific problem; someone who knows how it begins, progresses, and specified treatments. This is an excellent example of how a generalized person may not be equipped enough to handle something as well as specialized one can.
+
+Another example of a specialist who is needed instead of a generalist involves teaching. In grammar school, children learn all the basic principles of reading, writing, and arithmetic(*the science of numbers involving adding multiplying etc.*). But as children get older and progress in school, they gain a better understanding of the language and mathematical progresses. As the years in school increase, they need to learn more and more specifics and details about various subjects. They start out by learning basic math concepts such as addition, subtraction, division and multiplication. A few years later, they are ready to begin algebraic concepts, geometry, and calculus. They are also ready to learn more advanced vocabulary, the principles of how all life is composed and how it functions. One teacher or professor cannot provide as much in depth discussion on all of these topics as (~~well as~~) one who has learned the specifics and studied mainly to know everything that is currently known about one of these subjects. Generalized teachers are required to begin molding(*the distinctive form in which a thing is made*) students at a very early age so they can get ready for future ahead of those(~~them in~~) gaining more facts about the basic subjects and find(~~finding~~) out new facts on the old ones.
+
+These are only two examples of why specialists are not highly overrated and more generalists are not necessary to the point of overshadowing them. Generalists are needed to give the public a broad understanding of something(~~some things~~). But ,specialists are important to help maintain the status, health, and safety of our society. Specialists are very necessary.
+
+
+
