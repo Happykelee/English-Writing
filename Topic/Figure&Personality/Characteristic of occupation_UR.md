@@ -31,5 +31,9 @@ End£º
 
 Qualified parents needs some great characteristics.
 
+One: have good manners - As the saying goes, parents are the best teacher during the children's lefetime. In other words, the behaviors of parents have great impact on children.  
+Two: patience - Kids tend to be naughty with some bad behaviors in childhood, which requires parents good temper with tolerence, and to educate their kids again and again.  
+Three: thoughtful and sensitive - Good parents should tell the changes of children from superficial situations. When children encounter difficulties, the concern from parents will be quite helpful and warm.
+Four: respect and remain freedom for children - Don't build up the image of authority, and not emphasis the sacrifice to offer children better life in order to control children. Try to communicate with their children, and allow them to do what they want.
 
 End£º
