@@ -6,7 +6,7 @@
 *Wild Fire* is the book that is pretty important for me， which is a collection written by Long Yingtai, a Chinese author.
 
 One: reveal some social, political and educational issues in the 1980s of Taiwan, and also make us reflect on current issues and countermeasures at present.
-Two: inspiring - tell us not to be silent majority and struggle for freedom and democracy of our country, intrigue me to build the strong sense of justice and courage to conduct and appeal to something which I never did before.
+Two: inspiring - tell us not to be silent majority and struggle for freedom and democracy of our country, intrigue me to build the strong sense of justice and courage to conduct and call for something which I never did before.
 
 ## important place
 
