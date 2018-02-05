@@ -1,7 +1,7 @@
 ## favorite book(<野火集>)
 
-* **[class]** favorite thing
-* **[from]** TOEFL of listening 
+* **[genre]** favorite thing
+* **[from]** TOEFL of listening
 
 *Wild Fire* is the book that is pretty important for me， which is a collection written by Long Yingtai, a Chinese author.
 
@@ -10,8 +10,8 @@ Two: inspiring - tell us not to be silent majority and struggle for freedom and 
 
 ## important place
 
-* **[class]** favorite thing
-* **[from]** TOEFL of listening 
+* **[genre]** favorite thing
+* **[from]** TOEFL of listening
 
 library
 
@@ -20,8 +20,8 @@ Two: Environment around library is pretty good, quiet and peace, full of acdemic
 
 ## important decision
 
-* **[class]** favorite thing
-* **[from]** TOEFL of listening 
+* **[genre]** favorite thing
+* **[from]** TOEFL of listening
 
 study abroad(although I would have lots of challenges)
 
@@ -30,11 +30,11 @@ Two: jump out of our own "comfortable living circle", challenge myself, learn so
 
  ## thing missed most about home
 
-* **[class]** favorite thing
-* **[from]** TOEFL of listening 
+* **[genre]** favorite thing
+* **[from]** TOEFL of listening
 
 mother's cooking
 
 The reasons are simple and obvious.
 One: yummy and delicous, be accustomed to mother's cookings.
-Two: filling with affection of mother, the food remind me of my mother, family and home. 
+Two: filling with affection of mother, the food remind me of my mother, family and home.

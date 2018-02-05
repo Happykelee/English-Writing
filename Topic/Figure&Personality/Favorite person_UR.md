@@ -1,7 +1,7 @@
 ## Author(龙应台)
 
-* **[class]** favorite person
-* **[from]** TOEFL of listening 
+* **[genre]** favorite person
+* **[from]** TOEFL of listening
 
 Among many excellent authors around the world, my favorite person is Long Yingtai, a female writer in the region of Taiwan.
 The themes of her books are diverse，ranging from nation and country to family and life.
@@ -14,8 +14,8 @@ Another reason is that, apart from concerning about about the future of her home
 
 ## Celebrity(金星)
 
-* **[class]** favorite person
-* **[from]** TOEFL of listening 
+* **[genre]** favorite person
+* **[from]** TOEFL of listening
 
 The celebrity I most adore is Jin Xing, a famous Chinese dancer and the hostess of talk show.
 
@@ -28,8 +28,8 @@ That is why I admire Jin Xing very much.
 
 ## Person I most respect
 
-* **[class]** favorite person
-* **[from]** TOEFL of listening 
+* **[genre]** favorite person
+* **[from]** TOEFL of listening
 
 The person I most respect is my chemistry teacher in high school.
 
@@ -43,7 +43,7 @@ end:
 
 ## Explorer - Dias
 
-* **[class]** favorite person
+* **[genre]** favorite person
 * **[from]** Aceleader
 * **[tag]** Reviewed by teacher
 
